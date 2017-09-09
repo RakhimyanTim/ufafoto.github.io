@@ -1,5 +1,5 @@
 
-- title: ЭнБиЛабс
+- title: Ufafoto
   links:
     - name: Главная
       link: /
@@ -7,23 +7,19 @@
       link: /pricing/
     - name: Блог
       link: /blog/
-    - name: Галерея
-      link: /gallery/
-    - name: Эксперты
-      link: /experts/
     - name: О нас
       link: /about/
 - title: Ресурсы
   links:
-    - name: Пресса
-      link: /press/
+    - name: Портфолио
+      link: /case-studies/
     - name: Контакты
       link: /contact/
 - title: Соцсети
   links:
-    - name: Твиттер
-      link: https://twitter.com/enblabs
-      social_icon: Twitter
+    - name: Инстаграм
+      link: https://www.instagram.com/ufoto102
+      social_icon: Instagram
       new_window: true
     - name: Фейсбук
       link: https://www.facebook.com/enblabs
