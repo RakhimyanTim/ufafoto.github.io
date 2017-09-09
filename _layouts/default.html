@@ -5,7 +5,6 @@
 		<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
-		<meta name="google-site-verification" content="jqtSoAdTobDPpX0k95Q45MO0nUKCEPL7I_b_H9ubu_A" />
 		{% include seo.html %}
 		{% feed_meta %}
 		{% include analytics.html %}
@@ -19,7 +18,7 @@
 			<div class="container">
 				<h1>
 					<a href="/" {% if page.url == '/' %}class="active"{% endif %}>
-						<img src="/img/logo.png" width="68" height="46" alt="ЭнБиЛабс">
+						<img src="/img/logo.png" width="68" height="46" alt="Ufafoto">
 					</a>
 				</h1>
 				<div id="menu">
@@ -61,9 +60,9 @@
 					{% if page.header_shares %}
 						<div class="share-options">
 							{% assign url = page.url | prepend: site.url | cgi_escape %}
-							<a class="share-btn facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ url }}" target="_blank">{% include social-icon.html icon="Facebook" %} Share</a>
-							<a class="share-btn twitter" href="https://twitter.com/intent/tweet?url={{ url }}&amp;text={{ page.share_text | cgi_escape }}&amp;via=enblabs" target="_blank">{% include social-icon.html icon="Twitter" %} Tweet</a>
-							<a class="share-btn google-plus" href="https://plus.google.com/share?url={{ url }}" target="_blank">{% include social-icon.html icon="Google Plus" %} Share</a>
+							<a class="share-btn facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ url }}" target="_blank">{% include social-icon.html icon="Facebook" %} Поделиться</a>
+							<a class="share-btn twitter" href="https://twitter.com/intent/tweet?url={{ url }}&amp;text={{ page.share_text | cgi_escape }}&amp;via=enblabs" target="_blank">{% include social-icon.html icon="Twitter" %} Твитнуть</a>
+							<a class="share-btn google-plus" href="https://plus.google.com/share?url={{ url }}" target="_blank">{% include social-icon.html icon="Google Plus" %} Поделиться</a>
 						</div>
 					{% endif %}
 				</div>
