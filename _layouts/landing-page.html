@@ -1,0 +1,74 @@
+---
+layout: default
+landing_page: true
+---
+<header class="fancy-hero new-content">
+ 		<div class="container">
+ 			<h2>{{ page.title }}</h2>
+			<p class="sub-text landing-page">Устали сливать бюджет на то, что не приносит ощутимого результата?<br>Мы понимаем вас лучше, чем вы думаете.</p>
+			
+			<div class="cta-container" style="margin-top: 50px;">
+				<a href="{{ page.cta.upper.url }}" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">{{ page.cta.upper.btn }}</a>
+				<span class="btn-sub-text" style="color:#fff">{{ page.cta.upper.txt }}</span>
+			</div>
+			
+			<div style="margin-top: 50px;">
+				<iframe width="854" height="480" src="{{ page.youtube.url }}" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+			
+		</div>
+</header>
+
+<section class="new-content first">
+	<div class="container">
+		<div class="new-text">
+			<h3>{{ page.features.first.title }}</h3>
+			<p>{{ page.features.first.description }}</p>
+
+		</div>
+		<div class="new-image">
+			<div>
+				<img class="screenshot" src="/img/home/{{ page.features.first.image }}" srcset="/img/home/{{ page.features.first.image }} 800w, /img/home/{{ page.features.first.image2x }} 1600w" alt="{{ page.features.first.title }}">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="new-content alternate">
+	<div class="container">
+		<div class="new-text">
+			<h3>{{ page.features.second.title }}</h3>
+			<p>{{ page.features.second.description }}</p>
+
+		</div>
+		<div class="new-image">
+			<div>
+				<img class="screenshot" src="/img/home/{{ page.features.second.image }}" srcset="/img/home/{{ page.features.second.image }} 800w, /img/home/{{ page.features.second.image2x }} 1600w" alt="{{ page.features.second.title }}">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="new-content">
+	<div class="container">
+		<div class="new-text">
+			<h3>{{ page.features.third.title }}</h3>
+			<p>{{ page.features.third.description }}</p>
+
+		</div>
+		<div class="new-image">
+			<div>
+				<img class="screenshot" src="/img/home/{{ page.features.third.image }}" srcset="/img/home/{{ page.features.third.image }} 800w, /img/home/{{ page.features.third.image2x }} 1600w" alt="{{ page.features.third.title }}">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="bright-section centered">
+	<div class="container">
+		<h2>{{ page.cta.lower.title }}</h2>
+		<p style="margin:0;"><a href="{{ page.cta.lower.url }}" class="btn btn-primary btn-large btn-block btn-centered sign-up">{{ page.cta.lower.btn }}</a>
+		<span class="btn-sub-text new-content">{{ page.cta.lower.txt }}</span></p>
+	</div>
+</section>

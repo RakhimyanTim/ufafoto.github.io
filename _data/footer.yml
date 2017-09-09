@@ -1,0 +1,42 @@
+
+- title: ЭнБиЛабс
+  links:
+    - name: Главная
+      link: /
+    - name: Прайс
+      link: /pricing/
+    - name: Блог
+      link: /blog/
+    - name: Галерея
+      link: /gallery/
+    - name: Эксперты
+      link: /experts/
+    - name: О нас
+      link: /about/
+- title: Ресурсы
+  links:
+    - name: Пресса
+      link: /press/
+    - name: Контакты
+      link: /contact/
+- title: Соцсети
+  links:
+    - name: Твиттер
+      link: https://twitter.com/enblabs
+      social_icon: Twitter
+      new_window: true
+    - name: Фейсбук
+      link: https://www.facebook.com/enblabs
+      social_icon: Facebook
+      new_window: true
+    - name: Гугл+
+      link: https://plus.google.com/+enblabs
+      social_icon: Google Plus
+      new_window: true
+    - name: Ютуб
+      link: https://www.youtube.com/c/enblabs
+      social_icon: YouTube
+      new_window: true
+- title: Помощь
+  links:
+
