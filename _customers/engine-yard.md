@@ -6,7 +6,7 @@ logo:
   path: /img/customers/engine_yard/logo.png
   width: 300
 site: https://www.engineyard.com
-site_name: Engine Yard
+site_name: Вконтакте
 tagline: Прогулочная фотосъемка Малины.
 challenge: |
   Engine Yard is a pioneer in offering fantastic support and resources to the developer community. To cut development and maintenance time on their sites they needed a flexible yet lightweight platform.
