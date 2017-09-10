@@ -3,10 +3,10 @@ sort_key: 1
 name: Салимовы
 title: Свадебная фотосъемка Салимовых
 logo:
-  path: /img/customers/salimiv/logo.png
+  path: /img/customers/netflix/logo.png
 site: https://vk.com/
-site_name: 
-tagline: 
+site_name: Вконтакте
+tagline: The world’s leading Internet television network with over 62 million members.
 challenge: |
   Netflix is the world’s leading Internet television network. The company works hard to provide its partners and consumers with information at a fast pace. One of the ways Netflix does this is by ensuring informational websites stay up to date with relevant and engaging content.
   
