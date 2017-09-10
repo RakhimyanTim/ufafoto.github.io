@@ -17,7 +17,7 @@ solution: |
   
 testimonial:
   text: "Сотрудничали с UFAFOTO на фестивале, где мы выступали с большой концертной программой. Фото понравились, буду рад сотрудничеству снова!"
-  image_path: /img/customers/dabro/michail.jpeg
+  image_path: /img/customers/dabro/michail.jpg
   name: Михаил Засидкевич
   work_title: Dabro
   work_path: https://vk.com/dabromusic
