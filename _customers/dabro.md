@@ -1,6 +1,6 @@
 ---
 sort_key: 1
-name: Dabro
+name: Netflix
 title: Dabro
 logo:
   path: /img/customers/dabro/logo.png
