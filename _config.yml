@@ -1,29 +1,29 @@
-title: ЭнБиЛабс
-description: Сервис для проверки идеи стартапа.
-url: https://enblabs.ru
-disqus_shortname: enblabs
+title: Ufafoto
+description: Фотосалон. Фотокниги. Печать фотографии. Уфа ТФП.
+url: https://ufafoto.pro
+disqus_shortname: ufafoto
 
-logo: https://enblabs.ru/img/enblabs-logo.png
+logo: https://enblabs.ru/img/ufafoto-logo.png
 twitter:
-  username: enblabs
+  username: ufafoto
 
 facebook:
-  publisher: https://www.facebook.com/enblabs
+  publisher: https://www.facebook.com/ufafoto
 
 social:
   links:
-    - https://www.facebook.com/enblabs
-    - https://plus.google.com/+enblabs
-    - https://twitter.com/enblabs
-    - https://www.youtube.com/c/enblabs
-    - https://www.linkedin.com/company/enblabs
-    - https://github.com/enblabs
+    - https://www.facebook.com/ufafoto
+    - https://plus.google.com/+ufafoto
+    - https://twitter.com/ufafoto
+    - https://www.youtube.com/c/ufafoto
+    - https://www.linkedin.com/company/ufafoto
+    - https://github.com/ufafoto
 
 google_site_verification: 
 company:
-  founded: Ноябрь 2017
-  team_size: 3
-  address: 450001, Уфа, ул. Проспект Октября, 2
+  founded: Ноябрь 2015
+  team_size: 4
+  address: ул. Р.Зорге 45/2 (цокольный этаж)
   
 gems:
   - jekyll-sitemap
@@ -34,7 +34,7 @@ gems:
 
 paginate: 10
 paginate_path: "blog/:num/"
-blog_name: Блог ЭнБиЛабс
+blog_name: Блог Ufafoto
 blog_description: Оставайтесь в курсе последних новостей.
 permalink: pretty
 timezone: Yekaterinburg
@@ -47,16 +47,16 @@ collections:
     name: Эксперты
     output: false
   staff:
-    name: Члены компании
+    name: Сотрудники
     _hide_content: true
     output: false
   authors:
     name: Авторы
     output: false
   customers:
-    name: Кейсы
+    name: Портфолио
     output: true
-    permalink: /case-studies/:name/
+    permalink: /portfolio/:name/
 defaults:
   - scope:
       path: ""
