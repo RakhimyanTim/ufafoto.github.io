@@ -4,11 +4,9 @@ layout: default
 <header class="{{ page.name | slugify }}">
 	<div class="container">
 		<h2>Клиент Ufafoto: <a href="{{ page.site }}">
-			{% if page.logo.width %}
-				<img width="{{ page.logo.width }}" src="{{ page.logo.path }}" alt="{{ page.name }}" />
-			{% else %}
-				<img width="250" src="{{ page.logo.path }}" alt="{{ page.name }}" />
-			{% endif %}
+			<div class="author">
+					<img src="{{page.testimonial.image_path}}">
+				</div>
 		</a></h2>
 		<h3>{{ page.tagline }}</h3>
 		<p><a href="{{ page.site }}" target="_blank">Найти в {{ page.site_name }} &rarr;</a></p>
