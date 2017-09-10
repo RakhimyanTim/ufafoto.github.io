@@ -22,15 +22,15 @@ testimonial:
   work_title: Dabro
   work_path: https://vk.com/dabromusic
 overview:
-  - image_path: /img/customers/engine_yard/home.png
+  - image_path: /img/customers/dabro/1.png
     alt: Engine Yard Home Page
-  - image_path: /img/customers/engine_yard/features.png
+  - image_path: /img/customers/dabro/2.png
     alt: Engine Yard Features
-  - image_path: /img/customers/engine_yard/conferences.png
+  - image_path: /img/customers/dabro/3.png
     alt: Engine Yard Conferences
-  - image_path: /img/customers/engine_yard/dies_home.png
+  - image_path: /img/customers/dabro/4.png
     alt: Dies Home
-  - image_path: /img/customers/engine_yard/deis_blog.png
+  - image_path: /img/customers/dabro/5.png
     alt: Dies Blog
 features:
   - name: GitHub Syncing
