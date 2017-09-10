@@ -1,6 +1,6 @@
 ---
 sort_key: 1
-name: Netflix
+name: Dabro
 title: Netflix Case Study
 logo:
   path: /img/customers/netflix/logo.png
