@@ -1,5 +1,5 @@
 ---
-sort_key: 2
+sort_key: 1
 name: Engine Yard
 title: Engine Yard Case Study
 logo:
