@@ -1,12 +1,12 @@
 ---
 sort_key: 1
-name: Dabro
-title: Dabro
+name: Netflix
+title: Netflix Case Study
 logo:
   path: /img/customers/netflix/logo.png
 site: https://devices.netflix.com
 site_name: Netflix Devices
-tagline: Популярная музыкальная группа.
+tagline: The world’s leading Internet television network with over 62 million members.
 challenge: |
   ...
 solution: |
