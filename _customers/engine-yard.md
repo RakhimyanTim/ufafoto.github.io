@@ -8,24 +8,19 @@ logo:
 site: https://www.engineyard.com
 site_name: Вконтакте
 tagline: Прогулочная фотосъемка Малины.
+
 challenge: |
-  Engine Yard is a pioneer in offering fantastic support and resources to the developer community. To cut development and maintenance time on their sites they needed a flexible yet lightweight platform.
-
-  Engine Yard developers chose [Jekyll](http://jekyllrb.com) to build [engineyard.com](https://www.engineyard.com) and [deis.com](http://deis.com/). This setup worked great for the developers. But when it came time for their non-technical marketing team to make content changes, there was a problem.
-
-  The developers tried teaching the marketing team to use GitHub so they could edit source code but it was too difficult. So instead, content changes were emailed to developers. This was slow, frustrating and time consuming for everyone involved.
+  ...
+  
 solution: |
-  Engine Yard partnered with CloudCannon to create a workflow that empowers the marketing team to update content themselves.
-
-  The developers work the way they always have and can continue using Engine Yard for  hosting. With CloudCannon, content changes are almost entirely taken off the developers plate.
-
-  The marketing team can add content and try new messaging without the help of a developer.
+  ...
+  
 testimonial:
-  text: "With CloudCannon we actually have the people who should be updating the site and should be updating content actually using it."
+  text: "Сотрудничали с UFAFOTO на фестивале, где мы выступали с большой концертной программой. Фото понравились, буду рад сотрудничеству снова!"
   image_path: /img/customers/engine_yard/gerlando.jpeg
-  name: Gerlando Piro
-  work_title: Web Producer
-  work_path: http://engineyard.com
+  name: Михаил Засидкевич
+  work_title: группа Dabro
+  work_path: https://vk.com/dabromusic
 overview:
   - image_path: /img/customers/engine_yard/home.png
     alt: Engine Yard Home Page
