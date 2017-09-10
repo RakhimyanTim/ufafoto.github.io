@@ -1,13 +1,13 @@
 ---
 sort_key: 1
-name: Engine Yard
-title: Engine Yard Case Study
+name: Dabro
+title: Dabro
 logo:
-  path: /img/customers/engine_yard/logo.png
+  path: /img/customers/dabro/logo.png
   width: 300
-site: https://www.engineyard.com
+site: https://vk.com/dabromusic
 site_name: Вконтакте
-tagline: Прогулочная фотосъемка Малины.
+tagline: Популярная музыкальная группа, продюсерами и исполнителями которой являются два родных брата - Иван и Михаил Засидкевичи.
 
 challenge: |
   ...
@@ -17,9 +17,9 @@ solution: |
   
 testimonial:
   text: "Сотрудничали с UFAFOTO на фестивале, где мы выступали с большой концертной программой. Фото понравились, буду рад сотрудничеству снова!"
-  image_path: /img/customers/engine_yard/gerlando.jpeg
+  image_path: /img/customers/dabro/michail.jpeg
   name: Михаил Засидкевич
-  work_title: группа Dabro
+  work_title: Dabro
   work_path: https://vk.com/dabromusic
 overview:
   - image_path: /img/customers/engine_yard/home.png
